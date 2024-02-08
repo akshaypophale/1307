@@ -1,3 +1,4 @@
 Vehicle is moving
 Brakes applied
  brakes stopped
+suspension works
