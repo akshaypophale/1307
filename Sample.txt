@@ -6,3 +6,5 @@ vehicle speed is 50 kmph
  Vehicle is full function.
 oversteering is working
 pedal press
+Brakes working
+Brakes not working
