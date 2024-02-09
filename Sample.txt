@@ -7,3 +7,4 @@ vehicle speed is 50 kmph
 oversteering is working
 pedal press
 Brakes working
+vehicle speed is decreased.
