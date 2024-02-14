@@ -30,6 +30,6 @@ update_repository()
 # Schedule the update to occur every 24 hours
 while True:
    # Sleep for 24 hours
-   time.sleep(24 * 60 * 60)
+   time.sleep(20)
    # Update the repository
    update_repository()
