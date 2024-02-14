@@ -9,3 +9,5 @@ vehicle speed is decreased
 vehicle speed is increased
 vehicle speed is 100 kmph
 vehicle should start.
+vehicle should stop.
+vehicle is not moving
