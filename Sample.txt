@@ -6,8 +6,7 @@ vehicle speed is 50 kmph
  Vehicle is full function.
 oversteering is working
 vehicle speed is decreased
-vehicle speed is increased
-vehicle speed is 100 kmph
+
 
 
 
